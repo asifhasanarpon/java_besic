@@ -6,4 +6,7 @@ These classes should use inheritance to properly manage the code!
 include methods like volume surface area and getters / setters for dimension
  */
 public class cwh_68_exercise {
+    public static void main(String[] args) {
+
+    }
 }
